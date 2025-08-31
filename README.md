@@ -1,2 +1,2 @@
 Hello Day 1!
-This is my very first daily commit.
+This is my very first daily commi.

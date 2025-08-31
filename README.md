@@ -1,2 +1,2 @@
-# daily-text-st
-Python script to scan text/code files and produce a JSON stats report.
+Hello Day 1!
+This is my very first daily commit.
